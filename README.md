@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **joshuamhar05@gmail.com**
 
-- ⚡ Fun fact **I'm a rhythm game player..**
+- ⚡ Fun fact **I'm a rhythm game player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
