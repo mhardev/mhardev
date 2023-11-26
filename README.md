@@ -4,7 +4,7 @@
 <h3 align="center">I'm just an amateur web developer and will to learn more about it.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardev&label=Profile%20views&color=0e75b6&style=flat" alt="mhardev" /> </p>
 
-- 🌱 I’m currently learning more **Laravel, React JS, ASP.Net, JavaScript, Python, Unity, Android Studio**
+- 🌱 I’m currently learning more **Laravel, React JS, ASP.Net, JavaScript, Python, Unity, Android Studio** 
 
 - 👨‍💻 You can view my personal portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
