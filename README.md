@@ -1,14 +1,14 @@
 
 ![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)
 <h1 align="center">Hi 👋, I'm Joshua Mhar Alcubilla (MharDev)</h1>
-<h3 align="center">I'm just an amateur web developer who willing to learn more about it.</h3>
+<h3 align="center">I'm just an amateur web developer who is willing to learn more about it.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardev&label=Profile%20views&color=0e75b6&style=flat" alt="mhardev" /> </p>
 
 - 🌱 I’m currently learning more **Laravel, React JS, ASP.Net, JavaScript, Python, Unity, Android Studio** 
 
-- 👨‍💻 You can view my personal portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
+- 👨‍💻 You can view my portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, C#, Java, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **joshuamhar05@gmail.com**
 
