@@ -19,7 +19,7 @@
 
 <h3 align="left">My Progress/Status:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardev&show_icons=true&locale=en&layout=compact" alt="mhardev" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhardev&show_icons=true&locale=en" alt="mhardev" /></p>
 
