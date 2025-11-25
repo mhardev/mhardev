@@ -1,11 +1,8 @@
 <h1 align="left">Hi there👋, I'm Mhar Dev!</h1>
 <h3 align="left">An IT guy who wants to be a web developer, who is willing to learn more, especially as a back-end developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardev&label=Profile%20views&color=0e75b6&style=flat" alt="mhardev" /> </p>
-<br></br>
 <p align="left">I'm currently working as an Associate IT Engineer to learn more things about the IT Industry.</p>
-<br></br>
 <p align="left">I’m still learning more about back-end programming languages and frameworks such as **Laravel, Vue JS, Livewire, & JavaScript** just for my hobby and preparation for entering as a back-end developer.</p>
-<br></br>
 
 - 👨‍💻 You can view my portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
