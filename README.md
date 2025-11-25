@@ -2,7 +2,7 @@
 <h3 align="left">An IT guy who wants to be a web developer, who is willing to learn more, especially as a back-end developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardev&label=Profile%20views&color=0e75b6&style=flat" alt="mhardev" /> </p>
 <p align="left">I'm currently working as an Associate IT Engineer to learn more things about the IT Industry.</p>
-<p align="left">I’m still learning more about back-end programming languages and frameworks such as <b>Laravel, Vue JS, Livewire, & JavaScript</b> just for my hobby and preparation for entering as a back-end developer.<br></br>The tools and utilities that I used are VS Code, XAMPP, HERD, GitHub Desktop, Git, & Ubuntu Terminal</p>
+<p align="left">I’m still learning more about back-end programming languages & frameworks such as <b>Laravel, Vue JS, Livewire, & JavaScript</b> and databases such as <b>MySQL, MongoDB, & SQLite</b> just for my hobby and preparation for entering as a back-end developer.<br></br>The tools and utilities that I used are VS Code, XAMPP, HERD, GitHub Desktop, Git, & Ubuntu Terminal.</p>
 
 - 👨‍💻 You can view my portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
