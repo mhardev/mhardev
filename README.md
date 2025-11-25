@@ -5,9 +5,9 @@
 <p align="left">I’m still learning more about back-end programming languages & frameworks such as <b>PHP, JavaScript, Laravel, Livewire, & Vue JS</b> and databases such as <b>MySQL, MongoDB, & SQLite</b> just for my hobby and preparation for entering as a back-end developer.</p>
 <p align="left">The tools and utilities that I used are <b>VS Code, XAMPP, HERD, GitHub Desktop, Git, & Ubuntu Terminal</b>.</p>
 
-- 👨‍💻 You can view my portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
+- 👨‍💻 You can view my portfolio: [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
-- 📫 How to reach me **joshuamhar05@gmail.com**
+- 📫 For reaching out, you may compose an email to **joshuamhar05@gmail.com**
 
 <h3 align="left">Fun Facts:</h3>
 
