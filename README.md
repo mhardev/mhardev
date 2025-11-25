@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardev&label=Profile%20views&color=0e75b6&style=flat" alt="mhardev" /> </p>
 <p align="left">I'm currently working as an Associate IT Engineer to learn more things about the IT Industry.</p>
 <p align="left">I’m still learning more about back-end programming languages & frameworks such as <b>PHP, JavaScript, Laravel, Livewire, & Vue JS</b> and databases such as <b>MySQL, MongoDB, & SQLite</b> just for my hobby and preparation for entering as a back-end developer.</p>
-<p align="left">The tools and utilities that I used are VS Code, XAMPP, HERD, GitHub Desktop, Git, & Ubuntu Terminal.</p>
+<p align="left">The tools and utilities that I used are <b>VS Code, XAMPP, HERD, GitHub Desktop, Git, & Ubuntu Terminal</b>.</p>
 
 - 👨‍💻 You can view my portfolio [https://mhardev.vercel.app](https://mhardev.vercel.app)
 
