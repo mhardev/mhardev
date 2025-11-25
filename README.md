@@ -9,9 +9,13 @@
 - 📫 How to reach me **joshuamhar05@gmail.com**
 
 <h3 align="left">Fun Facts:</h3>
+
 - IT guy who loves hardware.
+
 - Coffee lover.
+
 - I like going outside and taking photos.
+  
 - Lastly, **I am a rhythm game player.**
 
 <h3 align="left">My Progress/Status:</h3>
