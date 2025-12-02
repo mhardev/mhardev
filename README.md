@@ -23,6 +23,4 @@
 
 [![](https://raw.githubusercontent.com/mhardev/mhardev/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mhardev/mhardev/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardev&show_icons=true&locale=en&layout=compact" alt="mhardev" /></p>
-
 <br></br>
